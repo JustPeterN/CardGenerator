@@ -1,0 +1,107 @@
+Netflix
+Uber
+Raspberry Pi
+Arduino
+Phillips
+Senior
+Simple mail transport Protocol
+Linux
+Ubuntu
+Rust
+Docker
+Zero Day
+User Datagram Protocol
+Transmission Control Protocol
+Router
+React
+Java
+Production
+Samsung
+Kali
+Devops Engineer
+Capgemini
+Kubernetes
+Server
+Internship
+MS-Dos
+Steve Jobs
+Richard Stallman
+Back-end Developer
+Serverless
+Microsoft
+Manjaro
+Mint
+Angular
+Nintendo
+Svelte
+Internet service provider
+DevOps
+Django
+Vue
+C
+Git
+MacOs
+Elixyr
+Express.js
+Typescript
+Emacs
+Git push
+Facebook
+IBM
+Git pull
+Swift
+PHP
+Dell
+Ruby on Rails
+Continuous integration
+Agile
+.NET
+Tencent
+TempleOs
+Interface
+Phishing
+Python
+Javascript
+Spring Boot
+Ransomware
+Front-end Developer
+Jetbrains
+Google
+Unit tests
+Laravel
+Microservices
+IT support
+Medior
+Amazon Web Services
+Arch Linux
+Domain name System
+Software Engineer
+Hyper Text Transfer Protocol
+Internet Protocol
+Virus
+Cloud Engineer
+Flask
+Kobalt
+Assembly
+Blockchain
+Man-in-the-Middle Attacks
+XOR Gate
+Oracle
+VMWare
+Linus Torvalds
+Commit
+C#
+R
+C++
+Telnet
+Exploit
+Hacking
+Universal Serial Bus
+Continuous delivery
+File Transfer Protocol
+Vim
+Switch
+Computer
+GoLang
+Junior
+Windows
