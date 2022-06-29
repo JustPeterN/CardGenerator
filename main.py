@@ -10,7 +10,6 @@ def read_file():
     file_obj.close()
     return words
 
-
 words = read_file()
 myFont = ImageFont.truetype('arial.ttf', 29)
 
@@ -18,10 +17,11 @@ for index, i in enumerate(words):
     img = Image.open('card.PNG')
     I = ImageDraw.Draw(img)
     I.text((80, 80), words[0], font=myFont, fill=(255, 255, 255))
-    I.text((80, 150), words[1], font=myFont, fill=(255, 255, 255))
-    I.text((80, 220), words[2], font=myFont, fill=(255, 255, 255))
-    I.text((80, 290), words[3], font=myFont, fill=(255, 255, 255))
-    I.text((80, 360), words[4], font=myFont, fill=(255, 255, 255))
+    I.text((80, 180), words[1], font=myFont, fill=(255, 255, 255))
+    I.text((80, 280), words[2], font=myFont, fill=(255, 255, 255))
+    I.text((80, 380), words[3], font=myFont, fill=(255, 255, 255))
+    I.text((80, 480), words[4], font=myFont, fill=(255, 255, 255))
     print(words)
+    #img.show()
     words = words[5:]
-    img.save("card " + str(index) + ".png")
+    img.save("cards/card " + str(index) + ".png")

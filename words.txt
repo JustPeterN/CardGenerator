@@ -1,107 +1,275 @@
-Netflix
-Uber
-Raspberry Pi
-Arduino
-Phillips
-Senior
-Simple mail transport Protocol
-Linux
-Ubuntu
-Rust
-Docker
-Zero Day
-User Datagram Protocol
-Transmission Control Protocol
-Router
-React
-Java
-Production
-Samsung
-Kali
-Devops Engineer
-Capgemini
-Kubernetes
-Server
-Internship
-MS-Dos
-Steve Jobs
-Richard Stallman
-Back-end Developer
-Serverless
-Microsoft
-Manjaro
-Mint
-Angular
-Nintendo
-Svelte
-Internet service provider
-DevOps
-Django
-Vue
-C
-Git
-MacOs
-Elixyr
-Express.js
-Typescript
-Emacs
-Git push
-Facebook
-IBM
-Git pull
-Swift
-PHP
-Dell
-Ruby on Rails
-Continuous integration
-Agile
-.NET
-Tencent
-TempleOs
-Interface
-Phishing
-Python
-Javascript
-Spring Boot
-Ransomware
-Front-end Developer
-Jetbrains
-Google
-Unit tests
-Laravel
-Microservices
-IT support
-Medior
-Amazon Web Services
-Arch Linux
-Domain name System
-Software Engineer
-Hyper Text Transfer Protocol
-Internet Protocol
-Virus
-Cloud Engineer
-Flask
-Kobalt
-Assembly
-Blockchain
-Man-in-the-Middle Attacks
-XOR Gate
-Oracle
-VMWare
-Linus Torvalds
-Commit
-C#
-R
-C++
-Telnet
-Exploit
-Hacking
-Universal Serial Bus
-Continuous delivery
-File Transfer Protocol
-Vim
-Switch
-Computer
-GoLang
-Junior
-Windows
+express.js
+component
+file
+threat
+c
+basic
+build
+json web token
+driver
+network
+design
+vmware
+jira
+developer
+algorithm
+source code
+capgemini
+arch linux
+security
+angular
+assembler
+html
+black-box testing
+sensor
+arduino
+open source
+netflix
+password
+ruby on rails
+botnet
+branch
+compiling
+terabyte
+module
+keylogger
+ransomware
+smtp
+golang
+fibre
+white hat
+unix
+switch
+.net
+buffer
+bios
+patch
+devops engineer
+end user
+usability
+kali
+oracle
+microsoft
+samsung
+maven
+swift
+ubuntu
+malware
+risk
+array
+interrupt
+pixel
+asynchronous
+modem
+operating system
+path
+deepfake
+phishing
+function
+phillips
+dns
+tencent
+cloud engineer
+ip address
+client
+parameter
+it support
+bug
+programming language
+flask
+secure shell
+hardware
+syntax
+null
+encryption
+linus torvalds
+linux
+wi-fi
+testing
+tcp
+proxy
+cloud
+backup
+windows
+nibble
+compiler
+mint
+microprocessor
+hexadecimal
+java
+cobol
+digital
+pen-testing
+computer science
+object
+cookie
+bps
+data
+exploit
+synchronous
+oop
+trojan horse
+blockchain
+audit
+kilobyte
+port
+worm
+i/o
+django
+version number
+outsourcing
+2fa
+boolean
+ftp
+server
+junior
+ssl
+calibration
+raspberry pi
+register
+access
+touch screen
+environment
+steve jobs
+spaghetti code
+hacker
+key
+richard stallman
+assembly
+prototyping
+benchmark
+megabyte
+ram
+svelte
+installation
+latency
+emacs
+blueprint
+dhcp
+documentation
+vpn
+internship
+python
+internet protocol
+hdd
+username
+best practice
+ascii
+ethernet
+machine learning
+inspection
+microcomputer
+xor gate
+computer
+overflow
+architecture
+dell
+node
+code review
+debugging
+gigabyte
+laravel
+hacking
+project manager
+state
+ms-dos
+code inspection
+react
+binary
+bootstrap
+bar code
+interpreter
+virus
+volume
+software development
+nintendo
+address
+version
+software
+release
+black hat
+vim
+turing
+gpu
+api
+ddos
+boot
+feature creep
+ibm
+aws
+functional programming
+javascript
+string
+domain
+usb
+archive
+failure
+cd-rom
+record
+back-end developer
+graph
+gnu/linux
+facebook
+language
+quality control
+opengl
+cursor
+firmware
+database
+compatibility
+pcb
+accident
+comment
+lan
+analysis
+job
+devops
+exception
+analog
+byte
+css
+c++
+program
+protocol
+authentication
+google
+front-end developer
+test case
+waterfall
+user
+accuracy
+software engineer
+disk
+coding
+data analysis
+error
+word
+udp
+telnet
+unit
+terminal
+senior
+hard disk drive
+macos
+uber
+firewall
+apple
+router
+anomaly
+controller
+system
+zero day
+review
+handshake
+cpu
+manjaro
+jetbrains
+gradle
+floppy disk
+bit
+graphql
+sql
+interface
+memory
+configuration
+chip
